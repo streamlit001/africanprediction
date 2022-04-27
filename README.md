@@ -1,2 +1,2 @@
-# africanprediction
-STreamLIt Repo For African PRediction
+# StreamLit
+testing Streamlit deployment
